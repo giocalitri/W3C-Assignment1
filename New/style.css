@@ -54,15 +54,16 @@ div.leftmenu, div.rightwrapper, div.topmenu, div.content, .leftbox, .rightbox {
 	clear:left;
 	font-weight:bold;
 }
-.leftbox a {
-	font-weight:none;
-}
 .rightbox {
 	font-weight:none;
 }
 .leftboxwide {
 	width:150px;
-}	
+}
+
+.leftboxshort {
+	width:auto;
+}
 
 div.topmenu {
 	margin-bottom:10px;	
