@@ -6,7 +6,6 @@ body {
 .biggerfont {
 	font-size:2em;	
 }
-
 dl.menulist {
 	margin:0px;	
 }
@@ -14,7 +13,6 @@ dl.menulist {
 dl.menulist dt {
 	font-size:1.2em;
 }
-
 dl.menulist * {
 	background-color:#999;
 	color:#fff;
@@ -24,31 +22,25 @@ dl.menulist * {
 	padding-left:10px;
 	padding-right:10px;
 }
-
 dl.menulist * a {
 	margin:0px;
 	padding:0px;	
 }
-
 dl.ratelist dt{
 	font-weight:bold;
 }
 dl.ratelist dd{
 	margin-bottom:5px;
 }
-
-
 div.leftmenu, div.rightwrapper, div.topmenu, div.content, .leftbox, .rightbox {
 	float:left;
 }
 .leftmenu, .rightwrapper {
 	margin:5px;	
 }
-
 .leftbox, .rightbox{
 	margin-bottom:10px;
 }
-
 .leftbox {
 	width:100px;
 	clear:left;
@@ -61,18 +53,12 @@ div.leftmenu, div.rightwrapper, div.topmenu, div.content, .leftbox, .rightbox {
 	width:150px;
 }
 
-.leftboxshort {
-	width:auto;
-}
-
 div.topmenu {
 	margin-bottom:10px;	
 }
-
 div.content {
 	clear:left;
 }
-
 div.topbutton {
 	width:100px;
 	border:2px solid black;
@@ -83,17 +69,14 @@ div.topbutton {
     border-radius: 0.5em;
     box-shadow: rgba(0,0,0,0.2) 0.5em 0.5em 0.3em;
 }
-
 div.topbutton.last{
 	margin-right:0px;
 }
-
 div.topbutton * {
 	color:#fff;
 	margin:0px;
 	padding:0px;
 }
-
 p.spaced {
 	margin-top:100px;
 	clear:both;
