@@ -1,0 +1,68 @@
+@CHARSET "UTF-8";
+/* General */
+body {
+	background-color:#FFEF99;
+}
+.biggerfont {
+	font-size:2em;	
+}
+/*Left menu*/
+dl.menulist {
+	margin:0px;	
+}
+
+dl.menulist dt {
+	font-size:1.2em;
+}
+
+dl.menulist * {
+	background-color:#999;
+	color:#fff;
+	margin-bottom:3px;
+	margin-left:0px;
+	padding:2px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+dl.menulist * a {
+	margin:0px;
+	padding:0px;	
+}
+
+/*specific*/
+div.leftmenu, div.rightwrapper, div.topmenu, div.content {
+	float:left;
+}
+div.leftmenu, div.rightwrapper {
+	margin:5px;	
+}
+
+div.topmenu {
+	margin-bottom:10px;	
+}
+
+div.content {
+	clear:left;
+}
+
+div.topbutton {
+	width:100px;
+	border:2px solid black;
+	background-color:#999;
+    text-align:center;
+    float:left;
+    margin-right:100px;
+    border-radius: 0.5em;
+    box-shadow: rgba(0,0,0,0.2) 0.5em 0.5em 0.3em;
+}
+
+div.topbutton.last{
+	margin-right:0px;
+}
+
+div.topbutton * {
+	color:#fff;
+	margin:0px;
+	padding:0px;
+}
