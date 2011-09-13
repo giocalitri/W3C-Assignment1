@@ -12,6 +12,7 @@ dl.menulist {
 
 dl.menulist dt {
 	font-size:1.2em;
+	padding-bottom:30px;
 }
 dl.menulist * {
 	background-color:#999;
